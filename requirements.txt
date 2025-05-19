@@ -1,0 +1,13 @@
+flask
+numpy
+pandas
+xgboost
+joblib
+ipykernel
+scikit-learn
+seaborn
+huggingface_hub
+matplotlib
+tensorflow
+google.generativeai
+dotenv
